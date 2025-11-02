@@ -5,6 +5,13 @@ A full-stack Google Calendar-like application built with a React + Vite frontend
 This repository is intended to run locally for development. The instructions below assume you're on Windows and using PowerShell.
 
 ---
+# Preview
+<img width="1899" height="879" alt="image" src="https://github.com/user-attachments/assets/a9cbe679-da2d-4f77-b143-3c92b16c2775" />
+<img width="1887" height="868" alt="image" src="https://github.com/user-attachments/assets/ffcdf4dd-4574-42c3-b655-982c804249ba" />
+<img width="304" height="571" alt="image" src="https://github.com/user-attachments/assets/9f16fd4b-59c3-4e46-87d5-f8068c162591" />
+<img width="1889" height="873" alt="image" src="https://github.com/user-attachments/assets/4fa25f4f-ea93-45b2-baf0-6eed0bc4f52e" />
+
+
 
 ## Tech stack
 - Frontend: React (Vite), date-fns, Axios
